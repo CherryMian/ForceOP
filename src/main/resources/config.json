@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "ops": [],
+  "isFirst": true,
+  "intervalSeconds": 5,
+  "commands": ["kick {player} Unauthorized operator"],
+  "AuditLogOutput": true
+}

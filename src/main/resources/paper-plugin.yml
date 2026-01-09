@@ -1,0 +1,12 @@
+name: ForceOP
+version: '1.0-SNAPSHOT'
+main: space.yumian.forceOP.ForceOP
+api-version: '1.21'
+commands:
+  fop:
+    description: ForceOP commands
+    usage: /fop version
+permissions:
+  ForceOP.command.version:
+    description: Allows use of /fop version
+    default: op
